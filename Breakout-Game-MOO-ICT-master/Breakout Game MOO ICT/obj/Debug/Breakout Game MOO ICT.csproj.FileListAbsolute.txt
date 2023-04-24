@@ -1,0 +1,32 @@
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.AssemblyReference.cache
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.SuggestedBindingRedirects.cache
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout_Game_MOO_ICT.Form1.resources
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.GenerateResource.cache
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.exe.config
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.exe
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.pdb
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.exe
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.pdb
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.exe.config
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.exe
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\Breakout Game MOO ICT.pdb
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\Interop.WMPLib.dll
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\AxInterop.WMPLib.dll
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.AssemblyReference.cache
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.SuggestedBindingRedirects.cache
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Interop.WMPLib.dll
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\AxInterop.WMPLib.dll
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.ResolveComReference.cache
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout_Game_MOO_ICT.Form1.resources
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout_Game_MOO_ICT.Properties.Resources.resources
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.GenerateResource.cache
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.CoreCompileInputs.cache
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.exe
+U:\Zinatullin\C#\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.pdb
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\Interop.WMPLib.dll
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Interop.WMPLib.dll
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ipd301.URSEI\Desktop\Breakout-Game-MOO-ICT-master\Breakout Game MOO ICT\obj\Debug\Breakout Game MOO ICT.csproj.ResolveComReference.cache
